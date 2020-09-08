@@ -1,4 +1,25 @@
 form{
     text-align: center;
     justify-content: center;
+    background-image: url("https://media.self.com/photos/5f0885ffef7a10ffa6640daa/4:3/w_2560%2Cc_limit/travel_plane_corona.jpeg");
+}
+#head{
+    background-color: lightslategrey;
+}
+#apmokejimas{
+    background-color: lightslategrey;
+}
+.skrydzio-info{
+    text-align: center;
+    padding: 2rem;
+}
+.paveiksliukas{
+    background-image: url("https://media.self.com/photos/5f0885ffef7a10ffa6640daa/4:3/w_2560%2Cc_limit/travel_plane_corona.jpeg");
+}
+.info{
+    padding: 3rem;
+}
+.top{
+    text-align: center;
+    margin-top: 1rem;
 }
